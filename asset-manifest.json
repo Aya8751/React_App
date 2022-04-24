@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React_App/static/css/main.cf3cdc81.css",
+    "main.js": "/React_App/static/js/main.eab368d1.js",
+    "static/media/pexels-min-an-694740.jpg": "/React_App/static/media/pexels-min-an-694740.64f86b1b454431432d40.jpg",
+    "index.html": "/React_App/index.html",
+    "main.cf3cdc81.css.map": "/React_App/static/css/main.cf3cdc81.css.map",
+    "main.eab368d1.js.map": "/React_App/static/js/main.eab368d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3cdc81.css",
+    "static/js/main.eab368d1.js"
+  ]
+}
